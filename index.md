@@ -14,6 +14,9 @@ layout: default
      <td class="menu"><a href="about" class="menu">ABOUT US</a></td>
    </tr></table>
 </div>
+
+{% include head.html %}
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to river valley christian fellowship](http://rivervalleyfellowship.org).
