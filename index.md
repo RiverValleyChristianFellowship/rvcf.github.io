@@ -3,29 +3,17 @@
 <body>
 
 
-<div class="head">
-<table width="100%">
-  <tr>
-       <td align="center"><img src="img/rvcf_head.gif" width="273" height="130" border="0">
-       </td>
-       <td>
-       <div class="headRef">Hebrews 12:2
-       <div class="headText"><h2>Looking unto Jesus,<br>the Author and<br />Finisher of our faith...</h2></div></div>
-   </td></tr>
-</table>
-</div>
-
 <!-- the main global menu -->
 
 <div class="menu">
   <table class="menu"><tr>
-     <td class="menu"><a href="index.php" class="menu">HOME</a></td>
-     <td class="menu"><a href="beliefs1.php" class="menu">OUR BELIEFS</a></td>
-<!--     <td class="menu"><a href="cg.php" class="menu">DEVOTIONAL</a></td>  -->
-     <td class="menu"><a href="contact.php" class="menu">CONTACT</a></td>
-<td class="menu"><a href="books.php" class="menu">BOOKS</a></td>
-     <td class="menu"><a href="schedule.php" class="menu">SCHEDULE</a></td>
-     <td class="menu"><a href="about.php" class="menu">ABOUT US</a></td>
+     <td class="menu"><a href="index.md" class="menu">HOME</a></td>
+     <td class="menu"><a href="beliefs1.md" class="menu">OUR BELIEFS</a></td>
+<!--     <td class="menu"><a href="cg.md" class="menu">DEVOTIONAL</a></td>  -->
+     <td class="menu"><a href="contact.md" class="menu">CONTACT</a></td>
+<td class="menu"><a href="books.md" class="menu">BOOKS</a></td>
+     <td class="menu"><a href="schedule.md" class="menu">SCHEDULE</a></td>
+     <td class="menu"><a href="about.md" class="menu">ABOUT US</a></td>
    </tr></table>
 </div>
 
@@ -34,18 +22,18 @@
    <tr>
       <td>
            <div class="tractMenu">
-           -&nbsp;<a href="DH01.php">Life Questions</a><br />
-           -&nbsp;<a href="DH06_short.php">Destination after Death</a>
+           -&nbsp;<a href="DH01.md">Life Questions</a><br />
+           -&nbsp;<a href="DH06_short.md">Destination after Death</a>
            <br /><br />
            -&nbsp; Newsletters:<br />
            <div class="tractCol">
-		    1.&nbsp;<a href="CM00_mythtruth.php">Divine Revelation vs. World Religion<a/><br />
-                2.&nbsp;<a href="CM01_feeding.php">What is your food?</a><br />
-                3.&nbsp;<a href="CM02_bible.php">Is the Bible True?</a><br />
-                4.&nbsp;<a href="CM03_God.php">Who is God?</a><br />
-                5.&nbsp;<a href="CM04_sin.php">What went wrong?</a><br />
-                6.&nbsp;<a href="CM05_law.php">How good are you?</a><br />
-                7.&nbsp;<a href="CM06_birth.php">What are you born of?</a><br />
+		    1.&nbsp;<a href="CM00_mythtruth.md">Divine Revelation vs. World Religion<a/><br />
+                2.&nbsp;<a href="CM01_feeding.md">What is your food?</a><br />
+                3.&nbsp;<a href="CM02_bible.md">Is the Bible True?</a><br />
+                4.&nbsp;<a href="CM03_God.md">Who is God?</a><br />
+                5.&nbsp;<a href="CM04_sin.md">What went wrong?</a><br />
+                6.&nbsp;<a href="CM05_law.md">How good are you?</a><br />
+                7.&nbsp;<a href="CM06_birth.md">What are you born of?</a><br />
            </div></div>
            <div class="tractImg">
                <img src="img/wi_logo.gif" alt="Chippewa Falls, WI" width="101" height="108" align="left">
