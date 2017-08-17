@@ -3,17 +3,7 @@
 
 layout: default
 ---
-<div class="menu">
-  <table class="menu"><tr>
-     <td class="menu"><a href="index" class="menu">HOME</a></td>
-     <td class="menu"><a href="beliefs1" class="menu">OUR BELIEFS</a></td>
-     <td class="menu"><a href="cg" class="menu">DEVOTIONAL</a></td>
-     <td class="menu"><a href="contact" class="menu">CONTACT</a></td>
-     <td class="menu"><a href="books" class="menu">BOOKS</a></td>
-     <td class="menu"><a href="schedule" class="menu">SCHEDULE</a></td>
-     <td class="menu"><a href="about" class="menu">ABOUT US</a></td>
-   </tr></table>
-</div>
+
 
 {% include head.html %}
 
