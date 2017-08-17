@@ -1,4 +1,6 @@
+
 {% include head.html %}
+
 # [](#header-1) IS IT POSSIBLE TO MEET AS A NEW TESTAMENT CHURCH TODAY?
 
 A word of explanation
