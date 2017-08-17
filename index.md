@@ -1,50 +1,19 @@
 ---
 
-<body>
 
-
-<!-- the main global menu -->
-
+layout: default
+---
 <div class="menu">
   <table class="menu"><tr>
      <td class="menu"><a href="index.md" class="menu">HOME</a></td>
      <td class="menu"><a href="beliefs1.md" class="menu">OUR BELIEFS</a></td>
-<!--     <td class="menu"><a href="cg.md" class="menu">DEVOTIONAL</a></td>  -->
+     <td class="menu"><a href="cg.md" class="menu">DEVOTIONAL</a></td>
      <td class="menu"><a href="contact.md" class="menu">CONTACT</a></td>
 <td class="menu"><a href="books.md" class="menu">BOOKS</a></td>
      <td class="menu"><a href="schedule.md" class="menu">SCHEDULE</a></td>
      <td class="menu"><a href="about.md" class="menu">ABOUT US</a></td>
    </tr></table>
 </div>
-
- <!-- table holding logos and links -->
-<table cellspacing="0" cellpadding="0">
-   <tr>
-      <td>
-           <div class="tractMenu">
-           -&nbsp;<a href="DH01.md">Life Questions</a><br />
-           -&nbsp;<a href="DH06_short.md">Destination after Death</a>
-           <br /><br />
-           -&nbsp; Newsletters:<br />
-           <div class="tractCol">
-		    1.&nbsp;<a href="CM00_mythtruth.md">Divine Revelation vs. World Religion<a/><br />
-                2.&nbsp;<a href="CM01_feeding.md">What is your food?</a><br />
-                3.&nbsp;<a href="CM02_bible.md">Is the Bible True?</a><br />
-                4.&nbsp;<a href="CM03_God.md">Who is God?</a><br />
-                5.&nbsp;<a href="CM04_sin.md">What went wrong?</a><br />
-                6.&nbsp;<a href="CM05_law.md">How good are you?</a><br />
-                7.&nbsp;<a href="CM06_birth.md">What are you born of?</a><br />
-           </div></div>
-           <div class="tractImg">
-               <img src="img/wi_logo.gif" alt="Chippewa Falls, WI" width="101" height="108" align="left">
-           </div>
-      </td>
-
-      <td>
-
-layout: default
----
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to river valley christian fellowship](http://rivervalleyfellowship.org).
