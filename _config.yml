@@ -3,7 +3,6 @@ description: We are a group of believers saved by grace though faith in Christ a
 show_downloads: true
 google_analytics:
 theme: 
-headers: 
 # build settings
 port: 4000
 highlighter: pygments
