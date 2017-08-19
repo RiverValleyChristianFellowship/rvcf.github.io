@@ -1,6 +1,19 @@
 
 {% include head.html %}
 
+# [](#header-1) WHAT WE BELIEVE
+Those meeting at River Valley Christian Fellowship are non-denominational and follow the example of the early Church, which met together for teaching, for fellowship, for breaking of bread (the Lord’s Supper), and for prayer (Acts 2:42) We have no enrolled membership. Church membership requires nothing more than being saved by God (Acts 2:47). All who know the Lord Jesus Christ as a personal Savior are thereby constituted members of the true Church, the body of Christ (1 Cor. 12:12-13). Those who are sound in life and doctrine are welcome to fellowship with us. We are known by biblical names such as believers (Acts 5:14), Christians (Acts 11:26), saints (Phil. 1:1), and brethren (Acts 20:32).
+
+We also believe the following:
+
+1. That the Bible is the inspired and inerrant Word of God, giving us God’s plan for salvation and the Christian life.
+2. That there is one God, the Creator of all, eternally existing in three persons; Father, Son, and Holy Spirit.
+3. That the sacrificial, substitutional death of Jesus Christ was made for all and is therefore sufficient to provide, to those who choose, eternal redemption and restoration to God.
+4. That there is immediate and eternal salvation of every person who personally trusts Jesus Christ as Savior and by faith rests on His finished work as the only means that a Holy God can forgive sins.
+5. That anyone who by faith receives the Lord Jesus Christ as Savior is born again of the Holy Spirit, indwelt by the Holy Spirit and by the Holy Spirit baptized into the Body of Christ, the Church.
+6. That the Lord Jesus Christ will return personally in the air for the church. His coming for the church is imminent, precedes the tribulation and millennium 
+
+
 # [](#header-1) IS IT POSSIBLE TO MEET AS A NEW TESTAMENT CHURCH TODAY?
 
 A word of explanation
