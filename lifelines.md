@@ -39,8 +39,10 @@
 <img src="picture_library/lifelinescover.JPG" width="860" height="440" align="Left" border="1"><br /> 
 
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<p>
+<a href="http://www.rivervalleyfellowship.org/picture_library/lifelinesdisc.JPG" target="_blank">DISC IMAGE</a>
+</p>
 
 
 <table width="100%" border="0" cellspacing="5" class="boxText">
@@ -48,9 +50,8 @@
     <td colspan="2" align="left">
 
 
-<script src="http://www.emailmeform.com/builder/forms/jsform/TN9F758edWs364h74ZyVe" type="text/javascript"></script>
+<iframe width="100%" height="970" allowTransparency="true" frameborder="0" scrolling="no" style="border:none" src="http://www.emailmeform.com/builder/embed/TN9F758edWs364h74ZyVe"><a href="http://www.emailmeform.com/builder/embed/TN9F758edWs364h74ZyVe">Fill out form.</a></iframe>
 <div style="margin-top:18px;text-align:center"><div id='emf_advertisement'><font face="Verdana" size="2" color="#000000">Powered by</font><span style="position: relative; padding-left: 3px; bottom: -5px;"><img src="//assets.emailmeform.com/images/footer-logo.png?RU1GLTAyLTI5LTBhZGFjMTU%3D" /></span><font face="Verdana" size="2" color="#000000">EMF </font><a style="text-decoration:none;" href="http://www.emailmeform.com/" target="_blank"><font face="Verdana" size="2" color="#000000">Online HTML Form</font></a></div></div>
-<p></p>
 
 <b>There is no charge for the CD.</b> The message is priceless. However, if you wish to donate to help David's family with covering costs you may do so via the paypal link below, or mail a check to: River Valley Christian Fellowship 516 Bridgewater Ave. Chippewa Falls, WI 54729. Thank you for your support and for taking this opportunity to spread the priceless message of God's Word! 
 
@@ -73,11 +74,6 @@
 </form>
 
 
-
-
-<p>
-<a href="http://www.rivervalleyfellowship.org/picture_library/lifelinesdisc.JPG" target="_blank">DISC IMAGE</a>
-</p>
 
 
 
