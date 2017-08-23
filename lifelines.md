@@ -21,8 +21,6 @@
 
 
 #### [](#header-4) ORDERING INFORMATION
-<ul>  
-
 <li>STORY: For David's story, which is still being told please click "David Hanson's Story" above.</li>  
 <li>ORDERING: CD's are now available! Please fill out form below to order. </li> 
 <li>COST: <b>THERE IS NO CHARGE FOR THIS CD</b>. If you wish to donate to help cover costs, there is a link at the bottom of this page where you can do so. A link and mailing address are provided at the bottom of this page. <b>If you can't afford to give a donation, please order anyway. The Lord will provide.</b></li>
@@ -51,8 +49,7 @@
 <p>
 </p>
 <h1>ORDERING INFORMATION</h1>
-</h4><ul>  
-
+<ul>  
 <li>STORY: For David's story, which is still being told please click "David Hanson's Story" above.</li>  
 <li>ORDERING: CD's are now available! Please fill out form below to order. </li> 
  <li>COST: <b>THERE IS NO CHARGE FOR THIS CD</b>. If you wish to donate to help cover costs, the opportunity to do so will be available. A link and mailing address are provided after you submit the order. <b>If you can't afford to give a donation, please order anyway. The Lord will provide.</b></li>
@@ -1064,12 +1061,6 @@ ash6fwa01p
 </form>
 
 
-
-
-
-
-</body>
-</html>
 
 
 
