@@ -33,12 +33,10 @@ if (typeof $.ui == 'undefined'){
 <div id="emf-container-outer">
   <div id="emf-container">
     <div id="emf-logo">
-      <a>EmailMeForm</a>
     </div>
     <form id="emf-form" target="_self" class="leftLabel" enctype="multipart/form-data" method="post" action="http://www.emailmeform.com/builder/form/c6ck0BfG1A5ic050895806ba9" name="emf-form">
       <div id="emf-form-instruction" class="emf-head-widget">
         <div id="emf-form-title" class="emf-bold">
-          Lifelines CD Order
         </div>
         <div id="emf-form-description"></div>
       </div>
