@@ -1,8 +1,4 @@
 
-<table width="100%" border="0" cellspacing="5" class="boxText">
-<tr>
-    <td colspan="2" align="left">
-
  
 #### [](#header-4)Life Lines CD - David Hanson
 <p> 
