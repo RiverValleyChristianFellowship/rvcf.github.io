@@ -15,35 +15,6 @@
 <a href="http://www.rivervalleyfellowship.org/audio/2012/willyoubeready.wma" target="_blank" >HERE.</a>
 
 
-<table width="100%" border="0" cellspacing="5" class="boxText">
-<tr>
-    <td colspan="2" align="left">
-
-<table width="100%" border="0" cellspacing="5" class="boxText">
-<tr>
-    <td colspan="2" align="left">
-
- 
-
-<h1>Life Lines CD - David Hanson</h1><p>
-<p> 
-</p>
-(CD IS ALSO KNOWN AS "WILL YOU BE READY WHEN YOUR TIME COMES?" BEFORE ARTWORK WAS REMADE AFTER THE ACCIDENT)
-<p> 
-</p>
-<p> 
-<p>
-</p>
-<h1>ORDERING INFORMATION</h1>
-<ul>  
-<li>STORY: For David's story, which is still being told please click "David Hanson's Story" above.</li>  
-<li>ORDERING: CD's are now available! Please fill out form below to order. </li> 
- <li>COST: <b>THERE IS NO CHARGE FOR THIS CD</b>. If you wish to donate to help cover costs, the opportunity to do so will be available. A link and mailing address are provided after you submit the order. <b>If you can't afford to give a donation, please order anyway. The Lord will provide.</b></li>
-<li>PICKUP: CD'S are available for you to pick up at Silica Bible Chapel in Sacramento, CA or here at River Valley Christian Fellowship in Chippewa Falls, WI. This would save us the expense of shipping them. </li>
-<li>SHIPPING: We are willing to ship these out to the address you provide (no charge). Otherwise, to save us the shipping costs you can pick up if you are near Sacramento, CA or Chippewa Falls, WI. </li>
-<li>LISTEN:</li> To listen to David's CD online, please click <a href="http://www.rivervalleyfellowship.org/audio/2012/willyoubeready.wma" target="_blank" >HERE.</a></li>
-
-
 <link rel="stylesheet" type="text/css" href="http://www.emailmeform.com/builder/styles/dynamic.php?t=post" />
 <link rel="stylesheet" type="text/css" href="http://www.emailmeform.com/builder/theme_css/c6ck0BfG1A5ic050895806ba9" />
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
