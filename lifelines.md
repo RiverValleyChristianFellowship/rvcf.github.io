@@ -14,35 +14,22 @@
     <td colspan="2" align="left">
 
  
-
-<h1>Life Lines CD - David Hanson</h1><p>
+#### [](#header-4)Life Lines CD - David Hanson
 <p> 
 </p>
 (CD IS ALSO KNOWN AS "WILL YOU BE READY WHEN YOUR TIME COMES?" BEFORE ARTWORK WAS REMADE AFTER THE ACCIDENT)
-<p> 
-</p>
-<p> 
-<p>
-</p>
-<h1>ORDERING INFORMATION</h1>
-</h4><ul>  
+
+
+#### [](#header-4) ORDERING INFORMATION
+<ul>  
 
 <li>STORY: For David's story, which is still being told please click "David Hanson's Story" above.</li>  
 <li>ORDERING: CD's are now available! Please fill out form below to order. </li> 
- <li>COST: <b>THERE IS NO CHARGE FOR THIS CD</b>. If you wish to donate to help cover costs, there is a link at the bottom of this page where you can do so. A link and mailing address are provided after you submit the order. <b>If you can't afford to give a donation, please order anyway. The Lord will provide.</b></li>
+<li>COST: <b>THERE IS NO CHARGE FOR THIS CD</b>. If you wish to donate to help cover costs, there is a link at the bottom of this page where you can do so. A link and mailing address are provided after you submit the order. <b>If you can't afford to give a donation, please order anyway. The Lord will provide.</b></li>
 <li>SHIPPING: We are willing to ship these out to the address you provide (no charge). Otherwise, to save us the shipping costs you can pick up if you are near Sacramento, CA or Chippewa Falls, WI. </li>
-<li>LISTEN:</li> To listen to David's CD online, please click <a href="http://www.rivervalleyfellowship.org/audio/2012/willyoubeready.wma" target="_blank" >HERE.</a></li>
-<li>QUESTIONS: Please call 715.450.1534 or e-mail natejhanson@gmail.com  </li>
+<li>LISTEN:</li> To listen to David's CD online, please click 
+<a href="http://www.rivervalleyfellowship.org/audio/2012/willyoubeready.wma" target="_blank" >HERE.</a></li>
 
-
-
-<img src="picture_library/lifelinescover.JPG" width="860" height="440" align="Left" border="1"><br /> 
-
-
-
-<p>
-<a href="http://www.rivervalleyfellowship.org/picture_library/lifelinesdisc.JPG" target="_blank">DISC IMAGE</a>
-</p>
 
 
 <table width="100%" border="0" cellspacing="5" class="boxText">
