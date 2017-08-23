@@ -1,6 +1,4 @@
 
-{% include head.html %}
-
 # [](#header-1)Sundays
 
 At 9:30 am a 15-20 minute prayer time starts out the meeting and is immediately followed by the Lord's Supper before a break at 10:30 am.
