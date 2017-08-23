@@ -86,19 +86,6 @@
 <li>PICKUP: CD'S are available for you to pick up at Silica Bible Chapel in Sacramento, CA or here at River Valley Christian Fellowship in Chippewa Falls, WI. This would save us the expense of shipping them. </li>
 <li>SHIPPING: We are willing to ship these out to the address you provide (no charge). Otherwise, to save us the shipping costs you can pick up if you are near Sacramento, CA or Chippewa Falls, WI. </li>
 <li>LISTEN:</li> To listen to David's CD online, please click <a href="http://www.rivervalleyfellowship.org/audio/2012/willyoubeready.wma" target="_blank" >HERE.</a></li>
-<li>QUESTIONS: Please call 715.450.1534 or e-mail natejhanson@gmail.com  </li>
-
-
-
-<img src="picture_library/lifelinescover.JPG" width="860" height="440" align="Left" border="1"><br /> 
-
-
-
-
-<p>
-<a href="http://www.rivervalleyfellowship.org/picture_library/lifelinesdisc.JPG" target="_blank">DISC IMAGE</a>
-</p>
-
 
 
 <link rel="stylesheet" type="text/css" href="http://www.emailmeform.com/builder/styles/dynamic.php?t=post" />
