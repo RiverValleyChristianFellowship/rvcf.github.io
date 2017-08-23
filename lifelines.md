@@ -28,16 +28,12 @@
 <li>COST: <b>THERE IS NO CHARGE FOR THIS CD</b>. If you wish to donate to help cover costs, there is a link at the bottom of this page where you can do so. A link and mailing address are provided at the bottom of this page. <b>If you can't afford to give a donation, please order anyway. The Lord will provide.</b></li>
 <li>SHIPPING: We are willing to ship these out to the address you provide (no charge). Otherwise, to save us the shipping costs you can pick up if you are near Sacramento, CA or Chippewa Falls, WI. </li>
 <li>LISTEN:</li> To listen to David's CD online, please click 
-<a href="http://www.rivervalleyfellowship.org/audio/2012/willyoubeready.wma" target="_blank" >HERE.</a></li>
-
+<a href="http://www.rivervalleyfellowship.org/audio/2012/willyoubeready.wma" target="_blank" >HERE.</a>
 
 
 <table width="100%" border="0" cellspacing="5" class="boxText">
 <tr>
     <td colspan="2" align="left">
-
-
-   <title>Life Lines CD - David Hanson</title>
 
 <table width="100%" border="0" cellspacing="5" class="boxText">
 <tr>
