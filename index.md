@@ -9,7 +9,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to river valley christian fellowship](http://rivervalleyfellowship.org).
+[Link to River Valley Christian Fellowship](http://rivervalleyfellowship.org).
 
 There should be whitespace between paragraphs.
 
