@@ -1,6 +1,11 @@
 ---
+
+
 layout: default
 ---
+
+
+{% include head.html %}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
