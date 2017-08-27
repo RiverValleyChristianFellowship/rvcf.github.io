@@ -8,7 +8,7 @@ It is our desire to recognize additional elders in time in accordance with the L
 If you wish to contact Joel Hanson, or someone else from River Valley Christian Fellowship please email us or call the phone number provided below. Thanks for visiting! 
 
 # Address:
-23430 20th Ave. Cadott, WI 54727
+23430 20th Ave Cadott, WI 54727
 
 # EMail:
 john5verse24@juno.com
