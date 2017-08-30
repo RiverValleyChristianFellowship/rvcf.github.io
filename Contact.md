@@ -76,6 +76,7 @@ button {
      between the labels and their text fields */
   margin-left: .5em;
 }
+</style>
 <form action="/my-handling-form-page" method="post">
     <div>
         <label for="name">Name:</label>
@@ -93,4 +94,3 @@ button {
   <button type="submit">Send your message</button>
 </div>
 </form>
-</style>
