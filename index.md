@@ -2,7 +2,7 @@
 
 layout: default
 ---
-We are a group of believers saved by grace though faith in Christ and His finished work (Eph. 2:8-9) who meet simply around the Lord Jesus, seeking to follow only the directions given in the New Testament. Currently we are a small group, meeting in the Senior Citizen Center in Chippewa Falls, Wisconsin (Chippewa Falls is a small town bordering Eau Claire).
+"We are a group of believers saved by grace though faith in Christ and His finished work (Ephesians 2:8-9) who meet as a local church at the Chippewa Falls Senior Center in Chippewa Falls, WI.  The Scriptures are our pattern for church organization (see Romans 12, Colossians 1:17-19, Titus 1:5-9, I Peter 5:1-4).  Our great desire and ministry is to seek God through His word, bring glory to God, submit to Christ by faith in His finished work of redemption, preach the gospel, teach sound doctrine, learn and live out the "love of Christ which passes knowledge." (Eph. 3:19)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
