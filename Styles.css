@@ -1,0 +1,237 @@
+/* whole page specs */
+body {
+	margin: 0px 0px 0px 0px;
+	background-color : #F7F7F7;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: normal;
+}
+
+h1 {
+	font-size: x-large;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2 {
+	font-size: large;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #003366;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #003366;
+}
+
+
+/* page background */
+div.head {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 10px;
+}
+
+div.headRef {
+	background-color: #3D7A9B;
+	color: White;
+	font-size: medium;
+	font-weight: normal;
+	text-align: center;
+	padding: 1px;
+	margin: 0px 5px 0px 10px;
+}
+
+div.headText {
+	background-color: #CCCCFF;
+	color: #003366;
+	font-weight: normal;
+	font-style: italic;
+	padding: 1px 3px 1px 3px;
+}
+
+
+Div.menu {
+	padding-bottom: 2px;
+	border-bottom: 1px solid #003366;
+	border-top: 1px solid #003366;
+	padding-top: 2px;
+	text-align: center;
+	vertical-align: middle;
+
+}
+
+table.menu {
+	margin: 0 auto;
+}
+
+.menu A {
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+.menu A:hover {
+	background-color: #CCCCFF;
+}
+
+Td.menu {
+	border-bottom: 0px;
+	border-left: 1px solid #003366;
+	border-right: 1px solid #003366;
+	border-top: 0px;
+	margin: 1px 0px 1px 0px;
+}
+
+
+/* Defining the foreground box */
+table.box {
+	color: #CCCCFF;
+	font-size: xx-small;
+}
+table.box a:link {
+	color : #CCCCFF;
+}
+table.box a:visited {
+	color : #CCCCFF;
+}
+table.box a:hover {
+	color : #003366;
+}
+
+
+.boxText {
+	padding-left : 10px;
+
+	font-size: medium;
+}
+
+.boxText a:link {
+	font-style: italic;
+}
+
+.boxText a:Hover {
+	color : #003366;
+}
+
+DIV.tractCol {
+	padding : 2px 5px;
+}
+
+Div.tractMenu {
+	font-size: x-small;
+	color: #003366;
+	text-align: left;
+	font-weight: bolder;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 15px;
+	border: 1px solid #003366;
+	background: #CCCCFF;
+	margin-top: 20px;
+	margin-left: 10px;
+	padding-bottom: 5px;
+	width: 80%;
+}
+
+Div.tractImg {
+	margin: 10px 10px 10px;
+	vertical-align: bottom;
+}
+
+
+/* General Content box or TextBox*/
+
+
+.plain  {
+	padding-left : 10px;
+	padding-top : 20px;
+	padding-bottom : 25px;
+	/* background-image : url(img/river.jpg); */
+	background-repeat : no-repeat;
+	background-position : right;
+	background-position: top;
+	font-size: medium;
+}
+
+.plain a:link {
+	font-style : italic;
+}
+.plain a:hover {
+	color : Black;
+}
+
+/* Text at bottom of page, address, etc */
+
+div.footer {
+	background-image: url(img/foot_grad.gif);
+	background-repeat: repeat-x;
+	text-align: center;
+	color: #003366;
+	font-size: 1.0em;
+}
+
+div.update {
+	color: White;
+	font-style: italic;
+	text-align: right;
+}
+
+.bibleRed {
+	color : Red;
+	font-style : italic;
+	font-weight : bold;
+}
+.bible {
+	font-weight : bold;
+	font-style : italic;
+}
+i.bible {
+	font-weight: normal;
+}
+
+.endnote {
+	font-size: xx-small;
+}
+.lead {
+	font-weight: bolder;
+	color: #003366;
+}
+
+/* Choice Gleaning's styles, taken directly from their style file ********/
+
+.daily {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.scripture {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 12px; 
+	COLOR: #990000; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.scripture2 {
+	font-weight: bold;
+	FONT-SIZE: 12px; 
+	COLOR: #003366; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.responsive {
+	FONT-SIZE: 12px; 
+	FONT-STYLE: italic; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+
+@media (max-width: 750px) {
+		td.leftBar {
+				display: none;
+		}
+}
+
+

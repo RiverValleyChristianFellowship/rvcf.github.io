@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html>
+<head>
+<?php include("inc/meta.inc.php"); ?>
+
+    <title>What are you born of?</title>
+</head>
+
+<?php include("inc/header.inc.php");
+      include("inc/textBox1.inc.php"); ?>
+
+<h1>WHAT ARE YOU BORN OF?</h1>
+                                                         <br />
+
+<p><img src="img/scroll.gif" width="102" height="83" align="Right" border="0"><br /><br />
+Last time, we looked at how the Ten Commandments show us our sinful condition before God.  We then saw how God has provided a way of escape from His judgment through His Son.  This time, we'll discuss receiving God's free gift of escape.
+<p>
+Man will tell you that there are thousands of ways or things that you need to do to be saved.  Religion is full of them.  I don't want to talk about religion; I want to talk to you about having a personal relationship with your Creator.  The Bible makes the way to be saved very clear.  <b class="bible">Jn.14:6 "Jesus said to him, "<span class="bibleRed">I am the way, the truth, and the life.  No one comes to the Father except through Me.</span>"</b>  Jesus is the only way.  Many have difficulty accepting this.  When we sin, our human reasoning tells us that since it was a bad action that took us out of fellowship with God, then a good one will bring us back into good standing.  This is what you see today.  We have thousands of churches filled with millions of people thinking that because they attend, pay tithe, get baptized, take of communion, etc. that they are taking care of their sins.  The Bible says differently, <b class="bible">Tit.3:5 "not by works of righteousness which we have done, but according to His mercy He saved us,"</b>  We can only be saved by the Lord's mercy and grace.
+<p>
+Going to church etc. is simply evidence of your faith.  If any of our efforts could save ourselves, why did Jesus come?  Some of you would say, "I know Jesus came and died for the sins of the world, so that means I'm saved."  You're right, He did die for the sins of the world, but He also made it clear that not everyone will be saved.  <b class="bible">Matt.7:21 "<span class="bibleRed">Not everyone who says to Me, "Lord, Lord," shall enter the kingdom of heaven.</span>"</b>  Some of you may also say, "I believe there is a God, so I'm saved."  I'm glad you say you believe but look at this verse - <b class="bible">James 2:19 "You believe that there is one God.  You do well.  Even the demons believe-and tremble!"</b>  Satan and the demons believe too, but they will not be in heaven.
+<p>
+Believing is what the Bible says will save us, but there is a difference between saying you believe (lip service) and actually believing (trusting).  Your practice will line up with your preaching (another paper).  So if our works won't save us, and if knowing about Jesus won't save us, what will?  <b class="bible">Jn.1:12 "But as many as received Him, to them He gave the right to become children of God, to those who believe in His name: who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God."</b>   What does it mean to receive?  In the Greek it means "to take" or "get hold of".  Have you taken God's gift of salvation?  Have you <u>personally</u> taken hold of Him, and received Him?
+<p>
+Imagine for a moment there is a present under the tree with your name on it.  You will never get the gift until you receive the present.  That gift is absolutely useless to you until you receive it.  The same is true of salvation.  Jesus died for the sins of the world 2000 years ago, have <u>you</u> received Him?  Is He <u>your</u> Savior or everyone else's?  The word 'believe' in this passage means "to trust" in the Greek.  As stated earlier, the Greek tells us that believing is more than cheaply saying you believe.  It's putting your trust in Jesus for your sins.  When you believe (trust) in God, you're no longer relying on your efforts but God's.  Therefore, you can know with all confidence that you can be saved, because God declares it.  <b class="bible">I Peter 1:18 "knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot.  He indeed was foreordained before the foundation of the world, but was manifest in these last times for you who through Him believe in God, who raised Him from the dead and gave Him glory, so that your faith and hope are in God."</b>  Are you trusting (believing) in anything but Jesus to remove your sins?
+<p>
+We can become <b class="bible">children of God</b> when we are <b class="bible">born not of blood</b> (you weren't physically born a Christian) <b class="bible">nor of the will of the flesh</b> (human efforts and works) <b class="bible">nor of the will of man </b>(someone else can't save you).  Many think their infant baptism will save them.  Baptism doesn't save and besides, that was your parents' decision, not yours.  <b class="bible">...but of God</b>, are you born of God?  Jesus said, <b class="bible">Jn.3:3 "<span class="bibleRed">Most assuredly, I say to you, unless one is born again, he cannot see the kingdom of God.</span>"</b>  In the Greek, born again means "from above".  Everyone has been born of his or her parents, but Jesus said you need a spiritual birth.
+<p>
+After having examined yourself to God's standard in His law (last letter), can you humble yourself enough to say that you are a sinner deserving of eternal separation from God (hell)?  <b class="bible">I Peter 5:5 "God resists the proud, but gives grace to the humble."</b>  Are you sorry for your sins, or are you sorry you got caught?  Are you serving yourself or God?  Is there a desire to turn away from sins (repent)?  <b class="bible">Lk.13:3 "<span class="bibleRed">but unless you repent you will all likewise perish.</span>"</b>  God detests sin and it cost Him everything to deal with it. He died for <u>your</u> sins. Jesus took <u>your</u> punishment.  Have <u>you</u> credited His sacrificial work to <u>your</u> own account?  He was then buried and rose again the third day, conquering the grave.  He lives that we might live also.  Do you really believe this?  <b class="bible">Rom.10:9 "that if you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved."</b>  Have you ever called upon the Lord to forgive you and save you?  <b class="bible">Acts 2:21 "That whoever calls on the name of the Lord shall be saved."</b>  Have you <u>personally</u> received Him?  Have you taken "hold of" this salvation that God offers you?  Have you been born "from above"?
+<p>
+Friends, I'm quite sure that some of this goes against teachings you've received in your life and even against what your church may preach.  But I beg of you, for your souls sake, not to believe everything your minister tells you.  The Bible must be the word of authority, not man.  It is God who will judge you according to His word, not man.  If you begin reading your Bibles, you'll soon see that many churches preach a perverted gospel, which is exactly what the Bible says will happen (<a href="http://www.biblegateway.com/cgi-bin/bible?passage=2+Peter+2&version=NKJV" target="_blank" class="plainLink">II Peter ch.2</a>).  Sadly, ministry today is simply another occupation to many so-called ministers.  I would challenge you to read your Bible and see if I'm telling you the truth.  The New Testament is a good place to start (Matthew, Mark, Luke, and John).  These are the books that record what Jesus said while here on earth.  READ!   Your eternity depends on it!
+
+
+<?php include("inc/textBox2.inc.php");
+      include("inc/footer.inc.php"); ?>
+
+</body>
+</html>
